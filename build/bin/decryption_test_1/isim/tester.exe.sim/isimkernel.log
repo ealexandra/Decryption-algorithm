@@ -1,0 +1,29 @@
+Command line:
+   tester.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52753
+
+Thu Dec 17 19:53:03 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5160.12 Meg
+
+ Total Signals          : 163
+ Total Nets             : 360
+ Total Signal Drivers   : 59
+ Total Blocks           : 22
+ Total Primitive Blocks : 18
+ Total Processes        : 88
+ Total Traceable Variables  : 196
+ Total Scalar Nets and Variables : 272239
+Total Line Count : 651
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5160.12 Meg
+
+Thu Dec 17 19:53:32 2020
+

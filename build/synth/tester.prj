@@ -1,0 +1,7 @@
+verilog work "..\..\caesar_decryption.v"
+verilog work "..\..\decryption_regfile.v"
+verilog work "..\..\decryption_top.v"
+verilog work "..\..\demux.v"
+verilog work "..\..\mux.v"
+verilog work "..\..\scytale_decryption.v"
+verilog work "..\..\zigzag_decryption.v"

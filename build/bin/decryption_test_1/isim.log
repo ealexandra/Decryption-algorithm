@@ -1,0 +1,30 @@
+ISim log file
+Running: tester.exe -intstyle ise -tclbatch ..\..\..\scripts\gui.tcl -gui 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 516096 ms
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Access 0 Writting address: 0x00 with value 0
+Access 0 Writting address: 0x10 with value 1
+Access 0 Writting address: 0x12 with value 0
+Access 0 Writting address: 0x14 with value 0
+Decryption 0 
+Testing data: BOBB SFNF SFTJ QFSF 
+Access 1 Writting address: 0x00 with value 1
+Access 1 Writting address: 0x10 with value 0
+Access 1 Writting address: 0x12 with value 520
+Access 1 Writting address: 0x14 with value 0
+Decryption 1 
+Testing data: ARNE ASAI RPEE MREE ú 
+Access 2 Writting address: 0x00 with value 2
+Access 2 Writting address: 0x10 with value 0
+Access 2 Writting address: 0x12 with value 0
+[TIMEOUT]UUT Valid OUT was not asserted during 100cc
+Stopped at time : 2125 ns : File "C:/Users/Alexandra/Desktop/tema2_task3_integration_tester/tema2_task3_checker/build/bin/tester/tester.v" Line 305

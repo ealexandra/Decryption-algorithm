@@ -1,0 +1,2 @@
+ISim log file
+Running: tester.exe -intstyle ise -tclbatch ..\..\..\scripts\gui.tcl -gui 
